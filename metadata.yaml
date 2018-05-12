@@ -1,0 +1,36 @@
+_repo: A-Treatise-on-Relics_32136
+_version: 0.1.0
+alternative_title: Traité des reliques. English
+contributor:
+  translator:
+    agent_name: Krasinski, Valerian, Count, approximately 1780-1855
+    alias: Krasinski, Valérian
+    gutenberg_agent_id: '40960'
+    url: http://www.gutenberg.org/2009/agents/40960
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Calvin, Jean
+    alias: Calvin, John
+    birthdate: 1509
+    deathdate: 1564
+    gutenberg_agent_id: '6425'
+    url: http://www.gutenberg.org/2009/agents/6425
+    wikipedia: http://en.wikipedia.org/wiki/John_Calvin
+description: ''
+gutenberg_issued: '2010-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reliquaries'
+- !lcc 'BX'
+- !lcsh 'Relics'
+title: A Treatise on Relics
+url: http://www.gutenberg.org/ebooks/32136
